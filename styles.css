@@ -154,9 +154,17 @@ body{
     color: #000000;
 }
 .button:hover {
-    background-color: var(--orange);
+    background-color: #747474;;
 }
 .red {
     background-color: var(--orange);
+
+}
+.red:hover {
+    background-color: rgb(248, 176, 75)
+
+}
+#button-clear:hover,#button-sign:hover,#button-percent:hover{
+    background-color: #cecbcb
 
 }
